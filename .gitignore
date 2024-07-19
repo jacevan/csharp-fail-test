@@ -1,0 +1,87 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore Visual Studio for Mac
+.vscode/
+.idea/
+*.sln.ide
+*.ide.*
+.vscode/
+.idea/
+*.sln.ide
+*.ide.*
+
+# Ignore build logs
+msbuild.log
+
+# Ignore test result directories
+TestResults/
+TestResults/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Ignore temporary files
+*.tmp
+*.temp
+~$*
+
+# Ignore configuration files
+*.config
+*.config.*
+*.json
+*.json.*
+
+# Ignore Rider IDE files
+.idea/
+*.sln.iml
+
+# Ignore specific folders and files for .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore coverage files
+coverage/
+*.coverage
+*.coveragexml
+*.sonar
+*.opencover.*
+*.dotCover
+*.coverage
+*.coveragexml
+*.sonar
+*.opencover.*
+*.dotCover
+coverage/
+coverage/
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
+
+# Ignore code analysis results
+.axml
+.axml.*
+.*axml
+.*axml.*
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
